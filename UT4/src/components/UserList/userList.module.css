@@ -1,0 +1,26 @@
+.userListContainer {
+    padding: 20px;
+    background-color: #b6b6b6;
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .userList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .userItem {
+    background-color: #909090;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    color: #242424;
+  }
+  
+  .userItem p {
+    margin: 5px 0;
+    color: #242424;
+  }  
